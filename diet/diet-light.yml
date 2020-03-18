@@ -1,0 +1,30 @@
+language: en
+pipeline:
+- name: WhitespaceTokenizer
+- name: CountVectorsFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 4
+- name: DIETClassifier
+  epochs: 20
+  learning_rate: 0.005
+  num_transformer_layers: 0
+  embedding_dimension: 10
+  weight_sparcity: 0.90
+  hidden_layer_sizes:
+    text: [256, 128]
+policies:
+- name: EmbeddingPolicy
+  max_history: 10
+  epochs: 20
+  batch_size:
+  - 32
+  - 64
+- max_history: 6
+  name: AugmentedMemoizationPolicy
+- core_threshold: 0.3
+  name: TwoStageFallbackPolicy
+  nlu_threshold: 0.8
+- name: FormPolicy
+- name: MappingPolicy

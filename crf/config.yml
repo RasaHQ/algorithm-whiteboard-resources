@@ -1,0 +1,24 @@
+language: en
+
+pipeline:
+- name: WhitespaceTokenizer
+- name: CountVectorsFeaturizer
+- name: LexicalSyntacticFeaturizer
+  "features": [
+    ["low", "title", "upper"],
+    [
+      "BOS",
+      "EOS",
+      "low",
+      "upper",
+      "title",
+      "digit",
+    ],
+    ["low", "title", "upper"],
+  ]
+- name: DIETClassifier
+
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy
