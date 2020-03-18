@@ -12,7 +12,11 @@ In the final video we make changes to a configuration file. The configuration fi
 
 The entire project was too big to add here so we've created a seperate github repo which can be found [here](https://github.com/RasaHQ/crf-demo).
 
-The main file that we've changed, the `config.yml` file, can be found in the `crf` folder of this repo as well. 
+The main file that we've changed, the `config.yml` file, can be found in the `crf` folder of this repo as well. There may be some online material that might help you appreciate some details. 
+
+- The [implementation of CRF in Rasa](https://github.com/RasaHQ/rasa/blob/master/rasa/nlu/extractors/crf_entity_extractor.py#L44) directly in github.
+- Extra [maths](https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/) that details the similarity between CRFs and Logistic Regression
+
 
 #### Video 5: Letter Embeddings
 
@@ -20,7 +24,7 @@ The kaggle dataset can be found [here](https://www.kaggle.com/therohk/million-he
 
 We've added the two notebooks in this repo in the `letter-embeddings` folder. But you can also run them yourself in google colab. The notebooks are mostly identical but the `v1` notebook only uses one token to predict the next one while `v2` uses two tokens to predict the next one.
 
-Notebook with one token input [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbjQtu5d1E88uM8oaJ3BAfHcI7JVUdu2]
+Notebook with one token input:  <a href="https://colab.research.google.com/drive/1jbjQtu5d1E88uM8oaJ3BAfHcI7JVUdu2"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
-Notebook with two token input [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N5wv75vbFRF3lPO1ZpSddBeb_DRaBNOY]
+Notebook with two token input: <a href="https://colab.research.google.com/drive/1N5wv75vbFRF3lPO1ZpSddBeb_DRaBNOY"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
