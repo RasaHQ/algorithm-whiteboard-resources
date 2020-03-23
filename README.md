@@ -1,28 +1,44 @@
 # Algorithm Whiteboard Resources
 
-![](images/logo.png)
+<a href="https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb">
+    <img src="images/logo.png">
+</a>
 
 This is where we share notebooks and projects used in our [youtube channel](https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb).
 
-<img src="images/vid-2.jpg" width=125 align="right">
-<img src="images/vid-1.jpg" width=125 align="right">
+<a href="https://youtu.be/vWStcJDuOUk">
+    <img src="images/vid-1.jpg" width=125 align="right">
+</a>
 
-#### Video 1-2: DIET Architecture 
+#### Video 1: DIET Architecture - How it Works
 
-These videos do not contain any code, just whiteboard explanations.
+This video explains the parts of the DIET architecture. It does not discuss any code.
 
-<img src="images/vid-3.jpg" width=125 align="right">
+<a href="https://youtu.be/KUGGuJ0aTL8">
+    <img src="images/vid-2.jpg" width=125 align="right">
+</a>
 
-#### Video 3: DIET Architecture 
+#### Video 2: DIET Architecture - Design Decisions
+
+This video explains the parts of the DIET architecture. It does not discuss any code.
+
+<a href="https://youtu.be/oj5oPGDlep4">
+    <img src="images/vid-3.jpg" width=125 align="right">
+</a>
+
+#### Video 3: DIET Architecture - Benchmarks
 
 In this video we make changes to a configuration file. The configuration files, the streamlit application as well as an instructions manual can be found in the `diet` folder.
 
+<a href="https://youtu.be/mWvnlVw_LiY">
+    <img src="images/vid-4.jpg" width=125 align="right">
+</a>
 
-<img src="images/vid-4.jpg" width=125 align="right">
+#### Video 4: Word Embeddings - Letter Embeddings
 
-#### Video 4: Letter Embeddings
+In this video we demonstrate how to train letter embeddings in order to gain intuition on what word embeddings are. 
 
-The kaggle dataset can be found [here](https://www.kaggle.com/therohk/million-headlines).
+The kaggle dataset that we use in this video can be found [here](https://www.kaggle.com/therohk/million-headlines).
 
 We've added the two notebooks in this repo in the `letter-embeddings` folder. But you can also run them yourself in google colab. The notebooks are mostly identical but the `v1` notebook only uses one token to predict the next one while `v2` uses two tokens to predict the next one.
 
