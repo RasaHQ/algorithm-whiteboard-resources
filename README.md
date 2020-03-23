@@ -7,7 +7,7 @@
 This is where we share notebooks and projects used in our [youtube channel](https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb).
 
 <a href="https://youtu.be/vWStcJDuOUk">
-    <img src="images/vid-1.jpg" width=125 align="right">
+    <img src="images/vid-1.jpg" width=140 align="right">
 </a>
 
 #### Video 1: DIET Architecture - How it Works
@@ -15,7 +15,7 @@ This is where we share notebooks and projects used in our [youtube channel](http
 This video explains the parts of the DIET architecture. It does not discuss any code.
 
 <a href="https://youtu.be/KUGGuJ0aTL8">
-    <img src="images/vid-2.jpg" width=125 align="right">
+    <img src="images/vid-2.jpg" width=140 align="right">
 </a>
 
 #### Video 2: DIET Architecture - Design Decisions
@@ -23,7 +23,7 @@ This video explains the parts of the DIET architecture. It does not discuss any 
 This video explains the parts of the DIET architecture. It does not discuss any code.
 
 <a href="https://youtu.be/oj5oPGDlep4">
-    <img src="images/vid-3.jpg" width=125 align="right">
+    <img src="images/vid-3.jpg" width=140 align="right">
 </a>
 
 #### Video 3: DIET Architecture - Benchmarks
@@ -31,7 +31,7 @@ This video explains the parts of the DIET architecture. It does not discuss any 
 In this video we make changes to a configuration file. The configuration files, the streamlit application as well as an instructions manual can be found in the `diet` folder.
 
 <a href="https://youtu.be/mWvnlVw_LiY">
-    <img src="images/vid-4.jpg" width=125 align="right">
+    <img src="images/vid-4.jpg" width=140 align="right">
 </a>
 
 #### Video 4: Word Embeddings - Letter Embeddings
