@@ -6,35 +6,35 @@
 
 This is where we share notebooks and projects used in our [youtube channel](https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb).
 
-<a href="https://youtu.be/vWStcJDuOUk">
+<a href="https://www.youtube.com/watch?v=vWStcJDuOUk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb">
     <img src="images/vid-1.jpg" width=170 align="right">
 </a>
 
-## Video 1: [DIET Architecture - How it Works](https://youtu.be/vWStcJDuOUk)
+## Video 1: [DIET Architecture - How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 This video explains the parts of the DIET architecture. It does not discuss any code.
 
-<a href="https://youtu.be/KUGGuJ0aTL8">
+<a href="https://www.youtube.com/watch?v=KUGGuJ0aTL8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb">
     <img src="images/vid-2.jpg" width=170 align="right">
 </a>
 
-## Video 2: [DIET Architecture - Design Decisions](https://youtu.be/KUGGuJ0aTL8)
+## Video 2: [DIET Architecture - Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 This video explains the parts of the DIET architecture. It does not discuss any code.
 
-<a href="https://youtu.be/oj5oPGDlep4">
+<a href="https://www.youtube.com/watch?v=oj5oPGDlep4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb">
     <img src="images/vid-3.jpg" width=170 align="right">
 </a>
 
-## Video 3: [DIET Architecture - Benchmarks](https://youtu.be/oj5oPGDlep4)
+## Video 3: [DIET Architecture - Benchmarks](https://www.youtube.com/watch?v=oj5oPGDlep4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 In this video we make changes to a configuration file. The configuration files, the streamlit application as well as an instructions manual can be found in the `diet` folder.
 
-<a href="https://youtu.be/mWvnlVw_LiY">
+<a href="https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb">
     <img src="images/vid-4.jpg" width=170 align="right">
 </a>
 
-## Video 4: [Word Embeddings - Letter Embeddings](https://youtu.be/mWvnlVw_LiY)
+## Video 4: [Word Embeddings - Letter Embeddings](https://www.youtube.com/watch?v=mWvnlVw_LiY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 In this video we demonstrate how to train letter embeddings in order to gain intuition on what word embeddings are. 
 
