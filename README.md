@@ -4,9 +4,21 @@
 
 This is where we share notebooks and projects used in our [youtube channel](https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb).
 
-#### Video 1-3: DIET Architecture 
+<img src="images/vid-2.jpg" width=125 align="right">
+<img src="images/vid-1.jpg" width=125 align="right">
 
-In the final video we make changes to a configuration file. The configuration files, the streamlit application as well as an instructions manual can be found in the `diet` folder.
+#### Video 1-2: DIET Architecture 
+
+These videos do not contain any code, just whiteboard explanations.
+
+<img src="images/vid-3.jpg" width=125 align="right">
+
+#### Video 3: DIET Architecture 
+
+In this video we make changes to a configuration file. The configuration files, the streamlit application as well as an instructions manual can be found in the `diet` folder.
+
+
+<img src="images/vid-4.jpg" width=125 align="right">
 
 #### Video 4: Letter Embeddings
 
