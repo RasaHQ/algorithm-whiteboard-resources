@@ -46,13 +46,13 @@ Notebook with one token input:  <a href="https://colab.research.google.com/drive
 
 Notebook with two token input: <a href="https://colab.research.google.com/drive/1N5wv75vbFRF3lPO1ZpSddBeb_DRaBNOY"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
-## Video 5: [Word Embeddings - CBOW & SkipGram](https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6)
-
-This video explains two algorithms but it does not discuss any code.
-
 <a href="https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6">
     <img src="images/vid-5.jpg" width=170 align="right">
 </a>
+
+## Video 5: [Word Embeddings - CBOW & SkipGram](https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6)
+
+This video explains two algorithms but it does not discuss any code.
 
 
 #### Video X: Conditional Random Fields [video not released yet]
