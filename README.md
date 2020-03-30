@@ -55,7 +55,7 @@ Notebook with two token input: <a href="https://colab.research.google.com/drive/
 This video explains two algorithms but it does not discuss any code.
 
 
-#### Video X: Conditional Random Fields [video not released yet]
+<!-- #### Video X: Conditional Random Fields [video not released yet]
 
 The entire project was too big to add here so we've created a seperate github repo which can be found [here](https://github.com/RasaHQ/crf-demo).
 
@@ -63,4 +63,4 @@ The main file that we've changed, the `config.yml` file, can be found in the `cr
 
 - The [implementation of CRF in Rasa](https://github.com/RasaHQ/rasa/blob/master/rasa/nlu/extractors/crf_entity_extractor.py#L44) directly in github.
 - Extra [maths](https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/) that details the similarity between CRFs and Logistic Regression
-
+ -->
