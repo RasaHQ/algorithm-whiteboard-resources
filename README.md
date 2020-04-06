@@ -54,6 +54,18 @@ This video explains two algorithms but it does not discuss any code.
     <img src="images/vid-5.jpg" width=170 align="right">
 </a>
 
+## Video 6: [Word Embeddings - GloVe](https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=7)
+
+This video discusses GloVe but also offers code to train a variant of your own. The keras model can be found in the `glove` folder.
+The `glove.py` file contains just the keras algorithm while the notebook contains the full code. You can also go online to colab 
+and play with the full notebook from there.
+
+<a href="https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=6">
+    <img src="images/vid-6.jpg" width=170 align="right">
+</a>
+
+The full notebook: <a href="https://colab.research.google.com/drive/1iwzxOmprqJXbzhtBhXrbzvLFX3PoFxvj"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
 
 #### Video X: Conditional Random Fields [video not released yet]
 
