@@ -70,6 +70,15 @@ and play with the full notebook from there.
 
 The full notebook: <a href="https://colab.research.google.com/drive/1iwzxOmprqJXbzhtBhXrbzvLFX3PoFxvj"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
+<a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
+    <img src="images/vid-7.jpg" width=170 align="right">
+</a>
+
+## Video 7: [Word Embeddings - WhatLies](https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+
+This video discusses a small visualisation package we've open sourced. The documentation for it can be found [here](https://rasahq.github.io/whatlies/).
+
+The notebook that we made in this video can be found in the `diet` folder.
 
 
 <!-- #### Video X: Conditional Random Fields [video not released yet]
