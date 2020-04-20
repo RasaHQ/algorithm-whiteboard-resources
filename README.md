@@ -80,6 +80,15 @@ This video discusses a small visualisation package we've open sourced. The docum
 
 The notebook that we made in this video can be found in the `diet` folder.
 
+<a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
+    <img src="images/vid-8.jpg" width=170 align="right">
+</a>
+
+## Video 8: [Attention - Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+
+This video discusses the idea behind attention (you may notice some similarities
+with a convolution) but it does not discuss any code.
+
 
 <!-- #### Video X: Conditional Random Fields [video not released yet]
 
