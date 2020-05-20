@@ -90,6 +90,59 @@ This video discusses the idea behind attention (you may notice some similarities
 with a convolution) but it does not discuss any code.
 
 
+<a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
+    <img src="images/vid-10.jpg" width=170 align="right">
+</a>
+
+## Video 9: [Attention: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=11)
+
+This video discusses how you can add more context to the self attention mechanism by introducing layers. This video does not discuss any code though.
+
+<a href="https://www.youtube.com/watch?v=tIvKXrEDMhk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=11">
+    <img src="images/vid-11.jpg" width=170 align="right">
+</a>    
+
+## Video 10: [Attention: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=12)
+
+This video explains how you can increase the potential of attention by introducing multiple layers of keys, queries and values. The video does not discuss any code though.
+
+<a href="https://www.youtube.com/watch?v=23XUv0T9L5c&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=12">
+    <img src="images/vid-12.jpg" width=170 align="right">
+</a>
+
+## Video 11: [Attention: Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=13)
+
+Given the lessons from the previous videos, this video wraps everything together by 
+combining everything into a transformer block. There is no code for this video.
+
+<a href="https://www.youtube.com/watch?v=EXNBy8G43MM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=13">
+    <img src="images/vid-13.jpg" width=170 align="right">
+</a>
+
+
+## Video 12: [StarSpace](https://www.youtube.com/watch?v=ZT3_9Kjx7oI&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=14)
+
+This video discusses the [StarSpace](https://arxiv.org/abs/1709.03856) algorithm. The
+video serves as an introduction to the TED policy. This video contains no code.
+
+<!-- <a href="https://www.youtube.com/watch?v=ZT3_9Kjx7oI&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=14">
+    <img src="images/vid-.jpg" width=170 align="right">
+</a> -->
+
+<!-- ## Video 14: [TED Policy](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+
+This video only discusses the theory behind the TED algorithm. The next video will
+show how TED more on a practical level. This video contains no code.
+
+<a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
+    <img src="images/vid-14.jpg" width=170 align="right">
+</a>
+
+## Video 15: [TED Policy in Practice](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+
+This video makes use of a rasa project that can be found [here](https://github.com/RasaHQ/rasa-ted-demo). By tuning the `history` hyperparameter we see how the chatbot is able
+to deal with context switches over a long period in the dialogue. -->
+
 <!-- #### Video X: Conditional Random Fields [video not released yet]
 
 The entire project was too big to add here so we've created a seperate github repo which can be found [here](https://github.com/RasaHQ/crf-demo).
