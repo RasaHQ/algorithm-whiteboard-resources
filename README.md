@@ -78,7 +78,7 @@ The full notebook: <a href="https://colab.research.google.com/drive/1iwzxOmprqJX
 
 This video discusses a small visualisation package we've open sourced. The documentation for it can be found [here](https://rasahq.github.io/whatlies/).
 
-The notebook that we made in this video can be found in the `diet` folder.
+The notebook that we made in this video can be found in the `whatlies` folder.
 
 <a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
     <img src="images/vid-8.jpg" width=170 align="right">
