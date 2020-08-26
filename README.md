@@ -125,30 +125,91 @@ combining everything into a transformer block. There is no code for this video.
 This video discusses the [StarSpace](https://arxiv.org/abs/1709.03856) algorithm. The
 video serves as an introduction to the TED policy. This video contains no code.
 
-<!-- <a href="https://www.youtube.com/watch?v=ZT3_9Kjx7oI&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=14">
-    <img src="images/vid-.jpg" width=170 align="right">
-</a> -->
+<br>
 
-<!-- ## Video 14: [TED Policy](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+<a href="https://www.youtube.com/watch?v=j90NvurJI4I&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=14">
+    <img src="images/ted1.jpg" width=170 align="right">
+</a>
+
+## Video 13: [TED Policy](https://www.youtube.com/watch?v=j90NvurJI4I&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=14)
 
 This video only discusses the theory behind the TED algorithm. The next video will
 show how TED more on a practical level. This video contains no code.
 
-<a href="https://www.youtube.com/watch?v=FwkwC7IJWO0&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9">
-    <img src="images/vid-14.jpg" width=170 align="right">
+<a href="https://www.youtube.com/watch?v=d8JMJMvErSg&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=15">
+    <img src="images/ted2.jpg" width=170 align="right">
 </a>
 
-## Video 15: [TED Policy in Practice](https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=9)
+## Video 14: [TED Policy in Practice](https://www.youtube.com/watch?v=d8JMJMvErSg&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=15)
 
 This video makes use of a rasa project that can be found [here](https://github.com/RasaHQ/rasa-ted-demo). By tuning the `history` hyperparameter we see how the chatbot is able
-to deal with context switches over a long period in the dialogue. -->
+to deal with context switches over a long period in the dialogue.
 
-<!-- #### Video X: Conditional Random Fields [video not released yet]
+<a href="https://www.youtube.com/watch?v=2jvyWngHEJM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=16">
+    <img src="images/resp1.jpg" width=170 align="right">
+</a>
 
-The entire project was too big to add here so we've created a seperate github repo which can be found [here](https://github.com/RasaHQ/crf-demo).
+## Video 15: [Response Selection](https://www.youtube.com/watch?v=2jvyWngHEJM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=16)
 
-The main file that we've changed, the `config.yml` file, can be found in the `crf` folder of this repo as well. There may be some online material that might help you appreciate some details. 
+This video explains how a response selection model might make your model more accurate in a FAQ/Chitchat scenario. There is no code for this video.
 
-- The [implementation of CRF in Rasa](https://github.com/RasaHQ/rasa/blob/master/rasa/nlu/extractors/crf_entity_extractor.py#L44) directly in github.
-- Extra [maths](https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/) that details the similarity between CRFs and Logistic Regression
- -->
+<a href="https://www.youtube.com/watch?v=0tXkFScW0hE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=17">
+    <img src="images/resp2.jpg" width=170 align="right">
+</a>
+
+## Video 16: [Response Selection](https://www.youtube.com/watch?v=0tXkFScW0hE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=17)
+
+This video explains how a response selection model is implemented internally. There is no code for this video.
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=Ju7l5ADg10U&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=18">
+    <img src="images/countv.jpg" width=170 align="right">
+</a>
+
+## Video 17: [CountVectors](https://www.youtube.com/watch?v=Ju7l5ADg10U&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=18)
+
+This video explains why CountVectors are still the unsung hero of natural language processing. There is no code attachment for this video.
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=kNw9dpzp5RU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=19">
+    <img src="images/subw.jpg" width=170 align="right">
+</a>
+
+## Video 18: [Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=19)
+
+This video tries to combine the ideas from word embeddings with the idea of countvectors. There's a way where we might get dense embeddings that are still somewhat robust against spelling errors. To reproduce, check out [whatlies](https://rasahq.github.io/whatlies/).
+
+<a href="https://www.youtube.com/watch?v=8D3Gamk1Jig&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=20">
+    <img src="images/subw-imp.jpg" width=170 align="right">
+</a>
+
+## Video 19: [Subword Implementation](https://www.youtube.com/watch?v=8D3Gamk1Jig&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=20)
+
+This video explains how you might implement subword embeddings from a neural network design perspective. There is no code for this video.
+
+<a href="https://www.youtube.com/watch?v=-0IjF-7OB3s&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=21">
+    <img src="images/byte.jpg" width=170 align="right">
+</a>
+
+## Video 20: [BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=21)
+
+This video explains how BytePair embeddings work. If you want to use these embeddings in Rasa please check out [rasa-nlu-examples](https://rasahq.github.io/rasa-nlu-examples/).
+
+<a href="https://www.youtube.com/watch?v=e9JdIKgf0QY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=22">
+    <img src="images/leven.jpg" width=170 align="right">
+</a>
+
+## Video 21: [Levenshtein Vectors](https://www.youtube.com/watch?v=e9JdIKgf0QY&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=22)
+
+This video explains how count vector mights be turned from sparse into dense layers. While doing this, we also learn that these vectors also encode levensthein distance.
+
+
+<a href="https://www.youtube.com/watch?v=UwAvyACOrWs&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=23">
+    <img src="images/bias.jpg" width=170 align="right">
+</a>
+
+## Video 22: [Bias in Word Embeddings](https://www.youtube.com/watch?v=UwAvyACOrWs&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=23)
+
+This video explains how you might measure gender bias in word embeddings. It's part of a larger series and the code for it can be found in the `bias` folder of this repository.
