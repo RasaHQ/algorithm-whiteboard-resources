@@ -179,7 +179,7 @@ This video explains why CountVectors are still the unsung hero of natural langua
 
 ## Video 18: [Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=19)
 
-This video tries to combine the ideas from word embeddings with the idea of countvectors. There's a way where we might get dense embeddings that are still somewhat robust against spelling errors. To reproduce, check out [whatlies](https://rasahq.github.io/whatlies/).
+This video tries to combine the ideas from word embeddings with the idea of countvectors. To reproduce, check out [whatlies](https://rasahq.github.io/whatlies/).
 
 <a href="https://www.youtube.com/watch?v=8D3Gamk1Jig&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=20">
     <img src="images/subw-imp.jpg" width=170 align="right">
@@ -205,7 +205,6 @@ This video explains how BytePair embeddings work. If you want to use these embed
 
 This video explains how count vector mights be turned from sparse into dense layers. While doing this, we also learn that these vectors also encode levensthein distance.
 
-
 <a href="https://www.youtube.com/watch?v=UwAvyACOrWs&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=23">
     <img src="images/bias.jpg" width=170 align="right">
 </a>
@@ -213,3 +212,19 @@ This video explains how count vector mights be turned from sparse into dense lay
 ## Video 22: [Bias in Word Embeddings](https://www.youtube.com/watch?v=UwAvyACOrWs&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=23)
 
 This video explains how you might measure gender bias in word embeddings. It's part of a larger series and the code for it can be found in the `bias` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=8xQbWlCEHRw&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=24">
+    <img src="images/debias-proj.jpg" width=170 align="right">
+</a>
+
+## Video 23: [De-Biasing Projections](https://www.youtube.com/watch?v=8xQbWlCEHRw&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=24)
+
+There's a lot of research on how we might remove bias from word-embeddings. In this video we'll discuss one such technique. For the code, check the `bias` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=MHdAd48dANo&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=25">
+    <img src="images/remain-careful.jpg" width=170 align="right">
+</a>
+
+## Video 24: [Remain Careful with Debiasing](https://www.youtube.com/watch?v=MHdAd48dANo&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=25)
+
+In this video we explain why de-biasing techniques have limits. For the code, check the `bias` folder of this repository.
