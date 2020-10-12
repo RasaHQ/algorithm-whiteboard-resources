@@ -228,3 +228,19 @@ There's a lot of research on how we might remove bias from word-embeddings. In t
 ## Video 24: [Remain Careful with Debiasing](https://www.youtube.com/watch?v=MHdAd48dANo&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=25)
 
 In this video we explain why de-biasing techniques have limits. For the code, check the `bias` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=2ROP1QFKsqc&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=26">
+    <img src="images/debias-hard.jpg" width=170 align="right">
+</a>
+
+## Video 25: [Why Debiasing is Hard](https://www.youtube.com/watch?v=2ROP1QFKsqc&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=26)
+
+In this video we explain why de-biasing techniques have limits. For the code, check the `bias` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=u6EmngzBUEU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=27">
+    <img src="images/word-analogies.jpg" width=170 align="right">
+</a>
+
+## Video 26: [Word Analogies](https://www.youtube.com/watch?v=u6EmngzBUEU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=27)
+
+In this video we explain why "word analogies" don't really work by merely applying arithmetic on word-vectors. For the code, check the `analogies` folder of this repository.
