@@ -244,3 +244,11 @@ In this video we explain why de-biasing techniques have limits. For the code, ch
 ## Video 26: [Word Analogies](https://www.youtube.com/watch?v=u6EmngzBUEU&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=27)
 
 In this video we explain why "word analogies" don't really work by merely applying arithmetic on word-vectors. For the code, check the `analogies` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=Czto6GzJah8&feature=youtu.be&ab_channel=Rasa">
+    <img src="images/toxic-lang.png" width=170 align="right">
+</a>
+
+## Video 27: [Toxic Language](https://www.youtube.com/watch?v=Czto6GzJah8&feature=youtu.be&ab_channel=Rasa)
+
+In this video we explain why detecting toxic language is harder than it might seem. Code for the video can be found in the `toxic` folder in this repository.
