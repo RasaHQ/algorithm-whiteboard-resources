@@ -323,7 +323,7 @@ It's easy to get distracted when you go down the rabbit hole of performance stat
     <img src="images/confidence.jpeg" width=170 align="right">
 </a>
 
-## Video 34: [Model Confidence](https://www.youtube.com/watch?v=ev1tNXPo3tE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=42)
+## Video 35: [Model Confidence](https://www.youtube.com/watch?v=ev1tNXPo3tE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=42)
 
 If we're going to apply a fallback, we better make sure that we have a good measure for confidence. In this video we explain an update that we've made to DIET that makes the confidence measure a more representative number.
 
@@ -331,6 +331,6 @@ If we're going to apply a fallback, we better make sure that we have a good meas
     <img src="images/flashtext.jpeg" width=170 align="right">
 </a>
 
-## Video 34: [FlashText Entity Extraction](https://www.youtube.com/watch?v=IHHKrqgFgs4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=43)
+## Video 36: [FlashText Entity Extraction](https://www.youtube.com/watch?v=IHHKrqgFgs4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=43)
 
 If we're going to apply a fallback, we better make sure that we have a good measure for confidence. In this video we explain an update that we've made to DIET that makes the confidence measure a more representative number.
