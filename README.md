@@ -65,7 +65,9 @@ This video explains two algorithms but it does not discuss any code.
 ## Video 6: [Word Embeddings - GloVe](https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=7)
 
 This video discusses GloVe but also offers code to train a variant of your own. The keras model can be found in the `glove` folder.
-The `glove.py` file contains just the keras algorithm while the notebook contains the full code. You can also go online to colab 
+
+The `glove.py` file contains just the keras algorithm while the notebook
+contains the full code. You can also go online to colab 
 and play with the full notebook from there.
 
 The full notebook: <a href="https://colab.research.google.com/drive/1iwzxOmprqJXbzhtBhXrbzvLFX3PoFxvj"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
@@ -252,3 +254,87 @@ In this video we explain why "word analogies" don't really work by merely applyi
 ## Video 27: [Toxic Language](https://www.youtube.com/watch?v=Czto6GzJah8&feature=youtu.be&ab_channel=Rasa)
 
 In this video we explain why detecting toxic language is harder than it might seem. Code for the video can be found in the `toxic` folder in this repository.
+
+<a href="https://www.youtube.com/watch?v=byy19WPLPBQ&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=34">
+    <img src="images/lexical-ambiguity.jpeg" width=170 align="right">
+</a>
+
+## Video 28: [Lexical Ambiguity](https://www.youtube.com/watch?v=byy19WPLPBQ&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=34)
+
+In this video we explain why detecting, in general, NLP models fall short. Models don't *really* understand language, they merely model it.
+
+<a href="https://www.youtube.com/watch?v=VldHznqAYlE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=35">
+    <img src="images/fallback-detection.jpeg" width=170 align="right">
+</a>
+
+## Video 29: [Fallback Detection](https://www.youtube.com/watch?v=VldHznqAYlE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=35)
+
+It's important to understand the limits of our models. They can sometimes tell us when they're uncertain about a prediction and this information should not be ignored.
+
+<a href="https://www.youtube.com/watch?v=Z0pnQcWHBZE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=36">
+    <img src="images/language.jpeg" width=170 align="right">
+</a>
+
+## Video 30: [Language Detection](https://www.youtube.com/watch?v=Z0pnQcWHBZE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=36)
+
+What might an assistant do if it sees a text from a language that it isn't trained on? It might make assumptions because it's unlike anything it has seen before and a standard fallback mechanism might not be able to pick it up.
+
+For the code, check the `language` folder of this repository.
+
+<a href="https://www.youtube.com/watch?v=FipRjQRaCz8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=37">
+    <img src="images/incremental-training.jpeg" width=170 align="right">
+</a>
+
+## Video 31: [Incremental Training](https://www.youtube.com/watch?v=FipRjQRaCz8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=37)
+
+Sometimes we don't need to completely retrain our algorithms. At times we can just finetune on new data. In this video we explain how that might be done with DIET.
+
+<a href="https://www.youtube.com/watch?v=T0dDetqgra4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=38">
+    <img src="images/bulk-labelling-ui.jpeg" width=170 align="right">
+</a>
+
+## Video 31: [Bulk Labelling UI](https://www.youtube.com/watch?v=T0dDetqgra4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=38)
+
+This video demonstrates a new feature in our bulk labelling demo. The code can be found [here](https://github.com/RasaHQ/rasalit/tree/main/notebooks/bulk-labelling). 
+
+<a href="https://www.youtube.com/watch?v=7tAWk_Coj-s&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=39">
+    <img src="images/labse.jpeg" width=170 align="right">
+</a>
+
+## Video 32: [Language Agnostic BERT (LaBSE)](https://www.youtube.com/watch?v=7tAWk_Coj-s&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=39)
+
+In this episode, I'll discuss how you might tweak the standard BERT model to accommodate multiple languages at the same time. We'll also demonstrate a pre-trained model that you can use right away! If you're interested in the paper, you can find it [here](https://arxiv.org/abs/2007.01852).
+
+<a href="https://www.youtube.com/watch?v=xpm17ibm0E8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=40">
+    <img src="images/iterate-data.jpeg" width=170 align="right">
+</a>
+
+## Video 33: [Iterate on Data](https://www.youtube.com/watch?v=xpm17ibm0E8&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=40)
+
+Instead of debugging a model, it might be *much* more effective to consider debugging your data. In this video, we'll discuss some techniques that you can start with while also demonstrating some new features in Rasa X.
+
+<a href="https://www.youtube.com/watch?v=GTClb8RQSGM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=41">
+    <img src="images/benchmarks.jpeg" width=170 align="right">
+</a>
+
+## Video 34: [Meaningful Benchmarks](https://www.youtube.com/watch?v=GTClb8RQSGM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=41)
+
+It's easy to get distracted when you go down the rabbit hole of performance statistics. But! Not every impressive benchmark is meaningful and it's important to make the distinction. In this video, we're going to explore one benchmark to demonstrate what we mean by this. 
+
+The code for this can be found in the `intent-benchmark` folder.
+
+<a href="https://www.youtube.com/watch?v=ev1tNXPo3tE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=42">
+    <img src="images/confidence.jpeg" width=170 align="right">
+</a>
+
+## Video 35: [Model Confidence](https://www.youtube.com/watch?v=ev1tNXPo3tE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=42)
+
+If we're going to apply a fallback, we better make sure that we have a good measure for confidence. In this video we explain an update that we've made to DIET that makes the confidence measure a more representative number.
+
+<a href="https://www.youtube.com/watch?v=IHHKrqgFgs4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=43">
+    <img src="images/flashtext.jpeg" width=170 align="right">
+</a>
+
+## Video 36: [FlashText Entity Extraction](https://www.youtube.com/watch?v=IHHKrqgFgs4&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=43)
+
+If we're going to apply a fallback, we better make sure that we have a good measure for confidence. In this video we explain an update that we've made to DIET that makes the confidence measure a more representative number.
