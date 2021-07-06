@@ -65,7 +65,9 @@ This video explains two algorithms but it does not discuss any code.
 ## Video 6: [Word Embeddings - GloVe](https://www.youtube.com/watch?v=BWaHLmG1lak&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=7)
 
 This video discusses GloVe but also offers code to train a variant of your own. The keras model can be found in the `glove` folder.
-The `glove.py` file contains just the keras algorithm while the notebook contains the full code. You can also go online to colab 
+
+The `glove.py` file contains just the keras algorithm while the notebook
+contains the full code. You can also go online to colab 
 and play with the full notebook from there.
 
 The full notebook: <a href="https://colab.research.google.com/drive/1iwzxOmprqJXbzhtBhXrbzvLFX3PoFxvj"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
@@ -317,7 +319,9 @@ Instead of debugging a model, it might be *much* more effective to consider debu
 
 ## Video 34: [Meaningful Benchmarks](https://www.youtube.com/watch?v=GTClb8RQSGM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=41)
 
-It's easy to get distracted when you go down the rabbit hole of performance statistics. But! Not every impressive benchmark is meaningful and it's important to make the distinction. In this video, we're going to explore one benchmark to demonstrate what we mean by this. The code for this can be found in the `intent-benchmark` folder.
+It's easy to get distracted when you go down the rabbit hole of performance statistics. But! Not every impressive benchmark is meaningful and it's important to make the distinction. In this video, we're going to explore one benchmark to demonstrate what we mean by this. 
+
+The code for this can be found in the `intent-benchmark` folder.
 
 <a href="https://www.youtube.com/watch?v=ev1tNXPo3tE&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=42">
     <img src="images/confidence.jpeg" width=170 align="right">
